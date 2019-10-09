@@ -1,4 +1,4 @@
-#Badge Icon as a HOC High Order Component
+# Badge Icon as a HOC High Order Component
 Icon Badge is a component for React Native that works on Android and iOS when you need inform to the user for the number of unread alerts for specific section or feature of your app. 
 
 >** Its a HOC, so it wraps in any other component like Text, Icon or whatever you want. **
